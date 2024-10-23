@@ -3,11 +3,14 @@
     --branco-principal: #FFFFFF;
     --botao-azul: #C0c0c0;
     --botao-azul: #167bf7;
+    --fonte-principal: 'inter';
 }
 
 body{
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
+    font-family: var(--fonte-principal);
+    font-size:
 }
 
 *{
@@ -38,3 +41,4 @@ body{
   background-color: transparent;
   border: 2px solid var(--branco-principal)
 }
+
